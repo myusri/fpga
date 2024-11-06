@@ -13,7 +13,7 @@ entity stimuli is
 end stimuli;
 
 architecture behavioral of stimuli is
-  constant HALF_PERIOD : time := 5ns; 
+  constant HALF_PERIOD : time := 5 ns; 
   signal CLK           : std_logic := '0';
   signal RESETN        : std_logic := '0';
   signal DONE          : boolean := false;
