@@ -1,6 +1,6 @@
 I had some experience with Verilog some time ago and now I'm getting familiar VHDL.
-I find the book Practical Digital Design: An Introduction to VHDL by Bruce Reidenbach
-(Purdue University Press, 2022) to be very helpful.
+I find the book *Practical Digital Design: An Introduction to VHDL* by Bruce 
+Reidenbach (Purdue University Press, 2022) to be very helpful.
 
 I'm just starting to use Visual Studio Code (VSCode) also due its better support for
 HDL development. I'm used to IntelliJ IDEA but its support for HDL development is not
