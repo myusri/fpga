@@ -13,3 +13,6 @@ disp(a);
 h = impz(b, a, 16);
 disp('Impulse response:');
 disp(h);
+
+% Filter frequency response
+freqz(b, a, 1024);
